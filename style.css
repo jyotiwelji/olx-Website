@@ -1,0 +1,59 @@
+.logo li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 50px;
+    font-size: large;
+    
+    
+}
+
+
+
+.logo li a {
+text-decoration: none;
+color: black;
+
+}
+
+.logo li a:hover {
+    color: rgb(62, 85, 231);
+}
+
+.logoicon {
+    
+    margin-right: 10px;
+    background-image: linear-gradient(to bottom, rgb(194, 194, 194), white);
+    margin-bottom: -3px;
+    border-radius: 60%;
+  padding: 5px;
+   
+}
+
+.link {
+text-decoration: none;
+}
+
+.bc {
+    border-style: solid;
+    border-color: pink blue yellow;
+}
+
+.category {
+    display: inline-flex;
+    justify-content: space-around;
+    margin: 30px;
+
+    
+}
+
+.category a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+.cards .card {
+    display: inline-flex;
+    margin: 10px;
+}
